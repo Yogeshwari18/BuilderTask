@@ -1,0 +1,70 @@
+
+#ramukaka{
+    width: 80vw;
+}
+
+#cat{
+    font-size: 40px;
+}
+
+#ram{
+    font-size: 60px;
+}
+
+#kanu{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+#dd{
+    font-size: 60px;
+}
+
+#kk{
+    font-size: 60px;
+}
+
+.zz{
+    display: flex;
+    justify-content: space-around;
+    gap: 10%;
+}
+#box-hr{
+    border-left: 1px solid black;
+}
+#left-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.block-title{
+    align-content: center;
+}
+
+.view-content{
+    font-size: 20px;
+    color: black;
+}
+
+#block-title{
+    font-size: 40px;
+}
+
+.view-out{
+    font-size: 20px;
+    font-weight: 200;
+height: 900px;
+width: 903px;
+left: 191px;
+top: 3288px;
+border-radius: undefinedpx;
+
+}
+
+.foo{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+}
